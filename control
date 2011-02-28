@@ -1,0 +1,16 @@
+Source: qgroundcontrol
+Section: science
+Priority: extra
+Maintainer: James Goppert <james.goppert@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), cmake, libqt4-dev, flite1-dev, libphonon-dev ,
+ libqt4-opengl-dev, libsdl1.2-dev
+Standards-Version: 3.9.1
+Homepage: http://www.qgroundcontrol.org
+#Vcs-Git: git://git.debian.org/collab-maint/qgroundcontrol.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/qgroundcontrol.git;a=summary
+
+Package: qgroundcontrol
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

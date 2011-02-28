@@ -1,0 +1,5 @@
+qgroundcontrol (0.8.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- James Goppert <james.goppert@gmail.com>  Mon, 28 Feb 2011 01:54:24 -0500
